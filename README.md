@@ -1,2 +1,4 @@
 # hello-world
-this is a short description
+this is a description
+
+hi my name is Eli and I make games
